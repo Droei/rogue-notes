@@ -122,6 +122,9 @@
 
 "Still didn't get through the first level man"
 
+"Day 3 the more I play this game as an inbetween thing the more I appreciate how real this game keeps it, you really get better that's your only progress"
+"I had such a great run and then I died to spikes, really made me go BBBRRRRUUUUUUUUHHHHHHHH"
+
 ## Hades
 
 "I have high hopes of one of the biggest roguelikes out there"
@@ -300,6 +303,30 @@ https://www.youtube.com/watch?v=gzEvIDwE7ew
 "Still really don't like the game, finding those teleport areas is soo boring"
 ![Another procedurally similar area](images/RiskOfRain/9.png)
 
+"Still really don't like the game, finding those teleport areas is soo boring"
+![Another procedurally similar area](images/RiskOfRain/9.png)
+
+"Honestly once you start just focussing only on finding those teleports it feels soo much better"
+"An honestly the bosses are sick!"
+![Teleporter-focused play and boss fight](images/RiskOfRain/10.jpg)
+
+"Well now the game went from repetitive to interesting & challenging!!!"
+![Difficulty spike and engaging combat](images/RiskOfRain/11.jpg)
+
+"Omg I've never seen a box even remotely as expensive as this"
+![Extremely expensive chest](images/RiskOfRain/12.jpg)
+
+"Damn he really protecting ma crate huh?"
+![Boss guarding a chest](images/RiskOfRain/13.jpg)
+
+"A chargable passive huh, sounds cool!"
+![Charged passive item pickup](images/RiskOfRain/14.jpg)
+
+"Well the thing where I can't find the shrine just feels sooo shit tho"
+"Well once I found the altar I died but it was a cool fight"
+![Altar or shrine boss fight](images/RiskOfRain/15.jpg)
+
+
 # My rOGUELIKE
 
 - I want it to be 3D third person  
@@ -307,3 +334,5 @@ https://www.youtube.com/watch?v=gzEvIDwE7ew
 - rooms gotta be big  
 - Auto lock on to help power fantasy  
 - Deck building with weapons abilities and ally deployables?
+- New options over raw stat upgrades
+- Cards can chain into other overpowered combo's
