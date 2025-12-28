@@ -12,7 +12,7 @@
 ![Map choice between rest, question mark, or combat](images/SlayTheSpire/1.png)
 
 "Wait artifacts that put shit in my deck? Fat ass flame barrier"
-![Artifact adding unwanted card to deck](images/SlayTheSpire/2.jp^g)
+![Artifact adding unwanted card to deck](images/SlayTheSpire/2.jpg)
 
 "campfire Level up card, no rest... That's it?"  
 "Omg my first boss!"
