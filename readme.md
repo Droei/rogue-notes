@@ -348,6 +348,55 @@ https://www.youtube.com/watch?v=gzEvIDwE7ew
 "I'm really gonna like this game it looks soooooo pleasing"
 ![](images/Inscryption/7.jpg)
 
+"The card I previously sacreficed is now guilt tripping me wtf"
+![Sacrificed card speaking back](images/Inscryption/8.jpg)
+
+"Huh, I'm not that emotional of a gamer but I genuinely felt scared when I almost accidentally sacreficed that cat!!!"
+![Cat card sacrifice moment](images/Inscryption/9.jpg)
+
+"Why is it still talking hahahahahahah broooooooo"
+"Is this the sacrefice or what?"
+![Talking sacrifice event](images/Inscryption/10.jpg)
+
+"ooohoooo"
+![Ominous reveal moment](images/Inscryption/11.jpg)
+
+"Looks like I lost but wtf this is crazy aura"
+![Loss screen with eerie atmosphere](images/Inscryption/12.png)
+![Post-loss scene](images/Inscryption/13.jpg)
+
+"BROOOOOOOOO WTF DID I DO TO DESERVE THIS"
+![Punishment scene](images/Inscryption/14.png)
+
+"BROOOOOOOOOOOOOOOOOOOOOOO"
+![Escalating horror moment](images/Inscryption/15.jpg)
+![Aftermath scene](images/Inscryption/16.jpg)
+
+"Ok this is sooo cooooolll, we are making my own card"
+![Custom card creation](images/Inscryption/17.jpg)
+
+"A passcode in the rulebook? Bro where is the rule book, it must be for the safe!!!!"
+![Rulebook clue](images/Inscryption/18.jpg)
+![Safe puzzle](images/Inscryption/19.jpg)
+![Puzzle solution reveal](images/Inscryption/20.png)
+"The house is full of riddles and curiosity's"
+
+"OOOOMFG THERE IS THE CARD HOLY SHIT"
+![Hidden card discovery](images/Inscryption/21.jpg)
+
+"The game feels a little slow with how short the fights feel and how many loot there is to get but maybe its just the introduction"
+![Loot-heavy early run](images/Inscryption/22.jpg)
+![Map progression](images/Inscryption/23.jpg)
+
+"After a while it starts to feel more & more exhausting, on one hand it makes sense, its basically a psycho pulling you through a D&D session"
+"On the other hand it starts to feel more boring as the rounds feel to short and the time between to long"
+
+"It looks like cards can get very OP tho!"
+![Overpowered card setup](images/Inscryption/24.jpg)
+"Huh that card just oneshotted him????"
+
+"wtf old man?"
+![Unexpected character reveal](images/Inscryption/25.png)
 
 
 # My rOGUELIKE
